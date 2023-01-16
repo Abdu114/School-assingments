@@ -1,0 +1,22 @@
+[
+  {
+    "question": "When was the first Apple iPhone  launched in USA?",
+    "option1": {"answer": 2000, "points": 0},
+    "option2": {"answer": 2008, "points": 0},
+    "option3": {"answer": 2007, "points": 1},
+    "option4": {"answer": 2001, "points": 0}
+  },
+
+  {
+    "question": "Who invented World Wide Web (WWW)?",
+    "option1": {"answer": "Donald Trump", "points": 0},
+    "option2": {"answer": "Tim Berners-Lee", "points": 1},
+    "option3": {"answer": "LInus Torvalds", "points": 0}
+  },
+  {
+    "question": "Which of the following definitions uses block scope in JS?",
+    "option1": {"answer": "x = 5", "points": 0},
+    "option2": {"answer": "var x = 5", "points": 0},
+    "option3": {"answer": "let x = 5", "points": 1}
+  }
+]
