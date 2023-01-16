@@ -1,1 +1,1 @@
-# School-assingmentss
+# School-assingments
